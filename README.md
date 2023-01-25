@@ -5,7 +5,7 @@
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
 - 👀 I am Frontend developer and my main programming  is React.js☕<br>
 - ✈️ [Connect with Telegram](https://t.me/XCBsU)
-- 📃 [Resume](https://github.com/binti-jamshidbek/binti-jamshidbek/files/9401810/Rakhimova_Shokhista_Recume.2.pdf,)
+- 📃 [Resume](https://github.com/UmidaJamshidbekovna/my-cv-pic/blob/main/My%20Resume.pdf)
 
 
 ## 🌐 Socials:
