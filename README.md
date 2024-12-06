@@ -4,7 +4,7 @@
 - 👋 Hi, My name is Rakhimova Umida.<br> 
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
 - 👀 I am Frontend developer and my main programming  is React.js☕<br>
-- ✈️ [Connect with Telegram](https://t.me/XCBsU)
+- ✈️ [Connect with Telegram](https://t.me/XCBsU_QM)
 - 📃 [Resume](https://github.com/UmidaJamshidbekovna/my-cv-pic/blob/main/My%20Resume.pdf)
 
 
