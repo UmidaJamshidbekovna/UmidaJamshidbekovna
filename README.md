@@ -23,6 +23,7 @@
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
  ![Vite](https://img.shields.io/badge/vite-js-%2330333A.svg?style=for-the-badge&logo=vite&logoColor=white)
+ ![PrimeVue](https://img.shields.io/badge/PrimeVue-%23007b8f.svg?style=for-the-badge&logo=primevue&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br><br>
 
 ## ✍️ Top Languages Card
