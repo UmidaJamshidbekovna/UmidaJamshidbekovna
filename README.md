@@ -3,13 +3,14 @@
 ## 💫 About Me:
 - 👋 Hi, My name is Rakhimova Umida.<br> 
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
-- 👀 I am Frontend developer and my main programming  is Vue.js and React.js☕<br>
+- 👀 I am Front-end developer and my main programming  is Vue.js, Nuxt.js, React.js and TypScript☕<br>
 - ✈️ [Connect with Telegram](https://t.me/UmidaQM_0902)
 - 📃 [Resume](https://github.com/UmidaJamshidbekovna/my-cv-pic/blob/main/My%20Resume.pdf)
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umida-rakhimova-08b037222/) <br>
+[![Telegram](https://img.shields.io/badge/Telegram-%230096D6.svg?logo=telegram&logoColor=white)](https://t.me/UmidaQM_0902)< br>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,14 +32,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
 <br><br>
 
-## ✍️ Top Languages Card
+## ✍️Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmidaJamshidbekovna&layout=compact)](https://github.com/UmidaJamshidbekovna/github-readme-stats)<br><br>
 
-## ✍️ GitHub Stats Card
-![Umida's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmidaJamshidbekovna&show_icons=true&theme=synthwave)<br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=YOUR_USERNAME&show_icons=true&theme=dark) <br><br>
-
+## 🔥 GitHub Stats Card
 ![umidajamshidbekovna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umidajamshidbekovna&theme=monokai&hide_border=false)
 
 
