@@ -9,9 +9,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umida-rakhimova-08b037222/) <br>
-[![Telegram](https://img.shields.io/badge/Telegram-%230096D6.svg?logo=telegram&logoColor=white)](https://t.me/UmidaQM_0902)< br>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umida-rakhimova-08b037222/) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230096D6.svg?logo=telegram&logoColor=white)](https://t.me/UmidaQM_0902)
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
