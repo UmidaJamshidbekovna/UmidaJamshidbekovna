@@ -36,7 +36,10 @@
 
 ## ✍️ GitHub Stats Card
 ![Umida's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmidaJamshidbekovna&show_icons=true&theme=synthwave)<br><br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark) <br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+username=YOUR_USERNAME&show_icons=true&theme=dark) <br><br>
+
+![umidajamshidbekovna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=umidajamshidbekovna&theme=monokai&hide_border=false)
 
 
 ### ✍️ Random Dev Quote
