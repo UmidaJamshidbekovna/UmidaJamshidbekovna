@@ -26,7 +26,10 @@
  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
  ![PrimeVue](https://img.shields.io/badge/PrimeVue-%23007b8f.svg?style=for-the-badge&logo=primevue&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br><br>
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
 
 ## ✍️ Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmidaJamshidbekovna&layout=compact)](https://github.com/UmidaJamshidbekovna/github-readme-stats)<br><br>
