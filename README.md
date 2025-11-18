@@ -36,6 +36,8 @@
 
 ## ✍️ GitHub Stats Card
 ![Umida's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmidaJamshidbekovna&show_icons=true&theme=synthwave)<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark) <br><br>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
