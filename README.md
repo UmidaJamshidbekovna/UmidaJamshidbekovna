@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 👋 Hi, My name is Rakhimova Umida.<br> 
 - 👨‍💻 Currently, I am working on myself to improve my skills.<br>  
-- 👀 I am Front-end developer and my main programming  is Vue.js, Nuxt.js, React.js and TypScript☕<br>
+- 👀 I am Front-end developer and my main programming  is Vue.js, Nuxt.js, React.js, Next.js and TypScript☕<br>
 - ✈️ [Connect with Telegram](https://t.me/UmidaQM_0902)
 - 📃 [Resume](https://github.com/UmidaJamshidbekovna/my-cv-pic/blob/main/My%20Resume.pdf)
 
